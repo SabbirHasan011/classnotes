@@ -4,4 +4,6 @@ I will upload some docs here
 <h2>List of the courses</h2>
 machine learning <br>
 compiler design <br>
-
+mathematical analysis for computer science<br>
+compiler design<br>
+information security system<br>
